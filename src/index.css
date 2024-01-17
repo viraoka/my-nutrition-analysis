@@ -169,4 +169,10 @@ p {
   button {
     padding: 5px;
   }
+  h1 {
+    color: #362222;
+  }
+  .lqu {
+    width: 50%;
+  }
 }
